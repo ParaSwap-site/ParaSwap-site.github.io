@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://paraswap.app/$1",
+      "permanent": true
+    }
+  ]
+}
